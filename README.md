@@ -1,5 +1,12 @@
 # Iceberg-for-Windows-Terminal
 
+<p align="center">
+  <img src=".png" width="100%" alt="">
+</p>
+<p align="center">
+  <img src=".png" width="100%" alt="">
+</p>
+
 このリポジトリは、Hiroki Kokubunさん（通称cocopon）が開発した、`https://github.com/cocopon/iceberg.vim` のカラースキームをWindows Terminalの配色テーマであるsettings.jsonに適用したものです。ここで断言しておきますが、私自身がこのカラースキームを配色したわけではありません。
 
 以下に、リンクを記載いたします。
