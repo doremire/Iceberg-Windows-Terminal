@@ -4,16 +4,16 @@
 
 以下に、リンクを記載いたします。
 
-# リポジトリ
+リポジトリ
 [https://cocopon.github.io/iceberg.vim/](https://cocopon.github.io/iceberg.vim/)
 
-# ウェブサイト
+ウェブサイト
 [https://github.com/cocopon/iceberg.vim](https://github.com/cocopon/iceberg.vim)
 
-# ブログページ
+ブログページ
 [https://cocopon.me/blog/2016/02/iceberg/](https://cocopon.me/blog/2016/02/iceberg/)
 
-# Twitterリンク
+Twitterリンク
 [https://twitter.com/cocopon](https://twitter.com/cocopon)
 
 
