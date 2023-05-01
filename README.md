@@ -16,6 +16,23 @@
 Twitterリンク
 [https://twitter.com/cocopon](https://twitter.com/cocopon)
 
+<hr>
+
+This repository is a color scheme for Windows Terminal's settings.json, based on the color scheme of https://github.com/cocopon/iceberg.vim developed by Hiroki Kokubun, also known as cocopon. I want to make it clear that I did not create this color scheme myself.
+
+Here are the links:
+
+Repository
+[https://cocopon.github.io/iceberg.vim/](https://cocopon.github.io/iceberg.vim/)
+
+Website
+[https://github.com/cocopon/iceberg.vim](https://github.com/cocopon/iceberg.vim)
+
+Blog Page
+[https://cocopon.me/blog/2016/02/iceberg/](https://cocopon.me/blog/2016/02/iceberg/)
+
+Twitter Link
+[https://twitter.com/cocopon](https://twitter.com/cocopon)
 
 ```json
         {
