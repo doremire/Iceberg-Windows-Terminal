@@ -3,10 +3,19 @@
 このリポジトリは、Hiroki Kokubunさん（通称cocopon）が開発した、`https://github.com/cocopon/iceberg.vim` のカラースキームをWindows Terminalの配色テーマであるsettings.jsonに適用したものです。ここで断言しておきますが、私自身がこのカラースキームを配色したわけではありません。
 
 以下に、リンクを記載いたします。
-`https://cocopon.github.io/iceberg.vim/`
-`https://github.com/cocopon/iceberg.vim`
-`https://cocopon.me/blog/2016/02/iceberg/`
-`https://twitter.com/cocopon`
+
+# リポジトリ
+[https://cocopon.github.io/iceberg.vim/](https://cocopon.github.io/iceberg.vim/)
+
+# ウェブサイト
+[https://github.com/cocopon/iceberg.vim](https://github.com/cocopon/iceberg.vim)
+
+# ブログページ
+[https://cocopon.me/blog/2016/02/iceberg/](https://cocopon.me/blog/2016/02/iceberg/)
+
+# Twitterリンク
+[https://twitter.com/cocopon](https://twitter.com/cocopon)
+
 
 ```json
         {
